@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///packages/terra-paginator/lib/terra-dev-site/test/paginator/ControlledPaginatorTestCommon.module.scss"],"names":[],"mappings":"AAAA,iEAEI,YAAa","file":"443-02f061ffb4b837bed3dc.css","sourcesContent":[":local {\n  .paginator-wrapper {\n    height: 500px;\n  }\n}\n"]}

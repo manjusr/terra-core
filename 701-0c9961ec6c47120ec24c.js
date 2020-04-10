@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[701],{2673:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var a=u(n(0)),r=u(n(280));function u(e){return e&&e.__esModule?e:{default:e}}t.default=function(){return a.default.createElement("div",{role:"main"},a.default.createElement(r.default,{id:"link",href:"https://www.cerner.com",variant:"image"},"Image hyperlink"))}}}]);
+//# sourceMappingURL=701-0c9961ec6c47120ec24c.js.map
